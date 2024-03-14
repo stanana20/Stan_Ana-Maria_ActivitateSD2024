@@ -1,0 +1,5 @@
+﻿  Seminar4.c
+C:\Users\anast\source\repos\Seminar4\Seminar4\Seminar4.c(52,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anast\source\repos\Seminar4\Seminar4\Seminar4.c(116,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anast\source\repos\Seminar4\Seminar4\Seminar4.c(175,13): warning C4047: '=': 'Masina **' differs in levels of indirection from 'Masina *'
+  Seminar4.vcxproj -> C:\Users\anast\source\repos\Seminar4\x64\Debug\Seminar4.exe
