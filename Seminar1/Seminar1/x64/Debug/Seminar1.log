@@ -1,0 +1,6 @@
+﻿  Seminar1.c
+C:\Users\anast\source\repos\Seminar1\Seminar1\Seminar1.c(23,34): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\anast\source\repos\Seminar1\Seminar1\Seminar1.c(24,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\anast\source\repos\Seminar1\Seminar1\Seminar1.c(44,39): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\anast\source\repos\Seminar1\Seminar1\Seminar1.c(50,66): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar1.vcxproj -> C:\Users\anast\source\repos\Seminar1\x64\Debug\Seminar1.exe
