@@ -1,0 +1,5 @@
+﻿  Seminar2.c
+C:\Users\anast\source\repos\Seminar2\Seminar2\Seminar2.c(13,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\anast\source\repos\Seminar2\Seminar2\Seminar2.c(14,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\anast\source\repos\Seminar2\Seminar2\Seminar2.c(97,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  Seminar2.vcxproj -> C:\Users\anast\source\repos\Seminar2\x64\Debug\Seminar2.exe
