@@ -1,0 +1,4 @@
+﻿  Seminar3.c
+C:\Users\anast\source\repos\Seminar3\Seminar3\Seminar3.c(45,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anast\source\repos\Seminar3\Seminar3\Seminar3.c(54,20): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+  Seminar3.vcxproj -> C:\Users\anast\source\repos\Seminar3\x64\Debug\Seminar3.exe
