@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\anast\Downloads\SEMINARE REVIZUITE\SDD\Seminar7\Seminar7\Source.c(48,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Seminar7.vcxproj -> C:\Users\anast\Downloads\SEMINARE REVIZUITE\SDD\Seminar7\x64\Debug\Seminar7.exe
