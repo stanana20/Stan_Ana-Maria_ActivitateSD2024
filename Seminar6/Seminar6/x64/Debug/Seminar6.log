@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\anast\Downloads\SEMINARE REVIZUITE\SDD\Seminar6\Seminar6\Source.c(64,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\anast\Downloads\SEMINARE REVIZUITE\SDD\Seminar6\Seminar6\Source.c(65,5): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\anast\Downloads\SEMINARE REVIZUITE\SDD\Seminar6\Seminar6\Source.c(77,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Seminar6.vcxproj -> C:\Users\anast\Downloads\SEMINARE REVIZUITE\SDD\Seminar6\x64\Debug\Seminar6.exe
